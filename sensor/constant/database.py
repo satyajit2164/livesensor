@@ -1,0 +1,2 @@
+DATABASE_NAME="isatya"
+COLLECTION_NAME="sensor"
